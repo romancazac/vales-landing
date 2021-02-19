@@ -291,6 +291,7 @@ h6 {
 }
 
 .nav__link {
+  cursor: url("../img/pointing.svg"), pointer;
   font-weight: 600;
   font-size: 20px;
   color: var(--color-white);
@@ -1242,6 +1243,7 @@ body {
 }
 
 .nav__link {
+  cursor: url("../img/pointing.svg"), pointer;
   font-weight: 600;
   font-size: 20px;
   color: var(--color-white);
